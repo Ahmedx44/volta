@@ -16,9 +16,6 @@
 
 ## Screenshots
 
-> Put your images in `docs/screenshots/` using the file names below.
-> You can reuse the Play Store images, or take new screenshots from your phone.
-
 | Live dashboard | Battery | Health | History |
 |:---:|:---:|:---:|:---:|
 | <img src="docs/screenshots/screenshot_1_live.png" width="200" alt="Live dashboard" /> | <img src="docs/screenshots/screenshot_2_battery.png" width="200" alt="Battery screen" /> | <img src="docs/screenshots/screenshot_3_health.png" width="200" alt="Health screen" /> | <img src="docs/screenshots/screenshot_4_history.png" width="200" alt="History screen" /> |
