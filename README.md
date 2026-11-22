@@ -107,25 +107,3 @@ docs/
 └── screenshots/                  # images used in this README
 ```
 
-## Notes and limitations
-
-- Battery information comes from phone hardware, so values can differ between models. Some phones report current with the opposite sign, and some do not report health or charge cycles.
-- The original (design) capacity is not available to apps. It is currently set to `4830 mAh` in `home_page.dart` and should become a user setting.
-- Health estimates are most accurate when the battery is at 50% or higher.
-- Charge cycles and the system health value need Android 14 or newer and a phone that supports them.
-
-## Roadmap
-
-- [x] Live dashboard
-- [x] Battery health (reported and estimated)
-- [x] Live current graph
-- [ ] Background recording service
-- [ ] Saved history and charge sessions
-- [ ] Screen on and screen off charge and drain averages
-- [ ] Alerts (charge limit, low battery, overheating)
-- [ ] Settings screen (design capacity, units, refresh rate)
-- [ ] Onboarding
-
-## License
-
-Add your license here, for example MIT.
