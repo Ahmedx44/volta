@@ -79,12 +79,6 @@ flutter run
 
 The generated bindings are written to `lib/android_battery.g.dart`. Run `dart run tool/jnigen.dart` again whenever you add a class to the list in `tool/jnigen.dart`.
 
-### Build the app icon
-
-```bash
-dart run flutter_launcher_icons
-```
-
 ## Project structure
 
 ```
